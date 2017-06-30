@@ -1,2 +1,4 @@
 # python-with-flask
-Python tests using Microframework Flask
+Python 2.7 tests using Microframework Flask
+
+Flask: http://flask.pocoo.org/
